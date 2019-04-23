@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556019636 source:c:\users\meet\desktop\findareaoftriangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
