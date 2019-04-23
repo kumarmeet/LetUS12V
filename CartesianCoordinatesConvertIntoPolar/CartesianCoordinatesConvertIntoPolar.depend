@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556041677 source:c:\users\sumit kv\desktop\cartesiancoordinatesconvertintopolar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
