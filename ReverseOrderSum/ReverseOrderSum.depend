@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555994337 source:c:\users\meet\desktop\reverseordersum\main.c
+	<stdio.h>
+	<stdlib.h>
+
